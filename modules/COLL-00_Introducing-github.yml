@@ -4,6 +4,7 @@ learning-objective: Describe the features of GitHub and how it is used to collab
 screens:
   - poll:
       title: Version Control Poll
+      image: "http://www.navicat.com/images/stories/download/navicat-premium-essentials-banner.png"
       presenter-script:
         - Please tell us a little about your experience with version control.
       questions: # A poll might have one or more questions
