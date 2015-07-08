@@ -6,7 +6,7 @@ learning-objective: Understand the purpose of GitHub and the differnce between G
 screens: # Each module is comprised of 1..n screens - you could think of them like slides in keynote containing an image, a video, a poll, or a quiz.
   - poll: # One type of screen displays a poll. A poll is comprised of one or more questions.
       title: Version Control Poll
-      image_url: "git@github.com:kkemple/curriculum-github.git"
+      image_url: "http://www.navicat.com/images/stories/download/navicat-premium-essentials-banner.png"
       presenter-script: Here's a quick poll to gauge your experience with Git and GitHub.
       questions: # A poll might have one or more questions
         - title: Have you used a version control system before? # Displayed as the question title
